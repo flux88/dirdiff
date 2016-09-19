@@ -4,7 +4,7 @@ dirdiff.ps1 is a simple powershell script used to compare two directory structur
 
 Example usage:
 ```
-PS C:\> dirdiff.ps1 C:\dir1 C:\dir2
+PS C:\> dirdiff.ps1 C:\dir1,C:\dir2
 One identical file:
         .\identical.txt
 One file only present in C:\dir1:
